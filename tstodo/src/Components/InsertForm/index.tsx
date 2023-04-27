@@ -1,7 +1,7 @@
 import React, { useCallback } from "react";
 import styled from "styled-components";
 import useInput from "../../Hooks/useInput";
-export default function InsertForm() {
+export default function InsertForm(insert: any) {
   const [value, valueChange, setValue] = useInput();
   const Content = styled.div`
     display: flex;
@@ -20,21 +20,21 @@ export default function InsertForm() {
     background-color: white;
   `;
 
-  //   const onClick = useCallback(
-  //     (e: String) => {
-  //       value === "" ? alert("제대로 입력해주세요 ") : Insert(value);
-  //       setValue("");
-  //       e.preventDefault();
-  //     },
-  //     [Insert, value, setValue]
-  //   );
-  const onClick = () => {};
+  const onClick = useCallback(
+    (e: any) => {
+      value === "" ? alert("제대로 입력해주세요 ") : insert(value);
+      setValue("");
+      e.preventDefault();
+    },
+    [insert, value, setValue]
+  );
+
   return (
     <Content>
       <ContentInput
         type="text"
-        // value={value}
-        // onChange={valueChange}
+        value={value}
+        onChange={valueChange}
         placeholder="글을 입력해주세요"
       />
       <AddButton onClick={onClick}>검색</AddButton>
