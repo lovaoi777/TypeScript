@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="305f020b-70aa-4845-8208-5ae9282252cd" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Ts_Grammar/forEach.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ex_ts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ex_ts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/ClassComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/P.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/StopPropagation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_ts/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tstodo/src/Components/TimeForm/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tstodo/src/Pages/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/tstodo/src/Pages/Main.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SDGcxYl2fm75kSbPBHE6DXTmfI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeonbyeong-gyu/Desktop/공부/TypeScript&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/jeonbyeong-gyu/Desktop/공부/TypeScript/Ts_Grammar/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TypeScript.forEach.ts">
+    <configuration name="first.ts" type="NodeJSConfigurationType" temporary="true" node-parameters="--require ts-node/register " path-to-js-file="$PROJECT_DIR$/Ts_Grammar/first.ts" working-dir="$PROJECT_DIR$/Ts_Grammar">
+      <method v="2" />
+    </configuration>
+    <configuration name="first.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TypeScript" />
+      <option name="interpreterRef" value="project" />
+      <option name="enabledTsNodeEsmLoader" value="false" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Ts_Grammar" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/Ts_Grammar/first.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="~/Desktop/공부/TypeScript/Ts_Grammar/node_modules/ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forEach.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TypeScript" />
+      <option name="interpreterRef" value="project" />
+      <option name="enabledTsNodeEsmLoader" value="false" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Ts_Grammar" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/Ts_Grammar/forEach.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="~/Desktop/공부/TypeScript/Ts_Grammar/node_modules/ts-node" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TypeScript.forEach.ts" />
+        <item itemvalue="TypeScript.first.ts" />
+        <item itemvalue="Node.js.first.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305f020b-70aa-4845-8208-5ae9282252cd" name="변경" comment="" />
+      <created>1688672623852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688672623852</updated>
+      <workItem from="1688673822259" duration="644000" />
+      <workItem from="1688674476141" duration="780000" />
+      <workItem from="1688754045008" duration="63000" />
+      <workItem from="1688760431280" duration="494000" />
+      <workItem from="1688760938680" duration="4001000" />
+      <workItem from="1688798381459" duration="598000" />
+      <workItem from="1688909402870" duration="599000" />
+      <workItem from="1689015971045" duration="599000" />
+      <workItem from="1689053738645" duration="13000" />
+      <workItem from="1689170204406" duration="58000" />
+      <workItem from="1689224035785" duration="15000" />
+      <workItem from="1689224062630" duration="121000" />
+      <workItem from="1690163723627" duration="2125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
