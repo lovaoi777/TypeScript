@@ -9,22 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="305f020b-70aa-4845-8208-5ae9282252cd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Ts_Grammar/forEach.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ex_ts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ex_ts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/ClassComponent.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/P.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/components/StopPropagation.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_ts/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tstodo/src/Components/TimeForm/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tstodo/src/Pages/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/tstodo/src/Pages/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ts_Grammar/Partial.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +60,6 @@
       <option name="extraTypeScriptOptions" value="" />
       <option name="scriptName" value="$PROJECT_DIR$/Ts_Grammar/first.ts" />
       <option name="programParameters" value="" />
-      <option name="tsnodePackage" value="~/Desktop/공부/TypeScript/Ts_Grammar/node_modules/ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="forEach.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -118,11 +103,24 @@
       <workItem from="1689170204406" duration="58000" />
       <workItem from="1689224035785" duration="15000" />
       <workItem from="1689224062630" duration="121000" />
-      <workItem from="1690163723627" duration="2125000" />
+      <workItem from="1690163723627" duration="4014000" />
+      <workItem from="1690194593135" duration="599000" />
+      <workItem from="1690233523913" duration="1669000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ex_ts/src/App.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
